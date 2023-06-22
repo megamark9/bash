@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo mkdir -p ~/Library/Application\ Support/Google/Chrome/External\ Extensions/ && sudo touch ~/Library/Application\ Support/Google/Chrome/External\ Extensions/ejbhdibciihpcnehnlonmdlifhohcjcp.json && sudo echo "{ \"external_update_url\": \"ENTER_S3_ADDRESS\" }" | sudo tee /Library/Application\ Support/Google/Chrome/External\ Extensions/ENTER_EXT_ID.json
